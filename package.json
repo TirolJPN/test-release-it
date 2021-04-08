@@ -1,0 +1,23 @@
+{
+  "name": "test-release-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TirolJPN/test-release-it.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TirolJPN/test-release-it/issues"
+  },
+  "homepage": "https://github.com/TirolJPN/test-release-it#readme",
+  "devDependencies": {
+    "release-it": "^14.5.1"
+  }
+}
